@@ -29,7 +29,7 @@ header{
 }
 main{
     display: flex;
-    -ms-flex-direction: column;
+    -ms-flex-direction: column !important;
     justify-content: center;
     align-items:center;
     border:2px solid var(--text-color);
