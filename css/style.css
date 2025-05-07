@@ -25,5 +25,8 @@ header{
     width:100%;
     justify-content:center;
     align-items:center;
-
+}
+main{
+    display: flex;
+    
 }
